@@ -5,6 +5,8 @@
 ## MiniBase v1.0.0: 
 ### Dynamic Collectible Tiny Character Management with Potential for AI and RPG
 
+* **[Click here and see the app in action! Learn how to use it with this video](*https://www.youtube.com/watch?v=nPuCyze-j4o&ab_channel=Blackars)**
+
 ### What is MiniBase?
 
 The **MiniBase** project is a tool designed for collectors, creators, and miniature enthusiasts. Its main goal is to provide a **centralized platform** for managing a database of miniatures, including:
